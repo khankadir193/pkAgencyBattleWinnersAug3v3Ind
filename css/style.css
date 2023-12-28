@@ -12,7 +12,7 @@ body{
   font-family: Proxima;
   /* background: rgb(13 13 39) url(../img/Bg.png); */
   background: url(../img/backGroundImg.png);
-  background-size: contain;
+  /* background-size: contain; */
   overflow-x: hidden;
   background-repeat: no-repeat;
   background-size: 100% 100% !important;
