@@ -11,7 +11,7 @@ body{
   background: linear-gradient(to bottom, #3d2b7b, #3c2b7b, #58048e);
   font-family: Proxima;
   /* background: rgb(13 13 39) url(../img/Bg.png); */
-  background: url(../img/BG.png);
+  background: url(../img/backGroundImg.png);
   background-size: contain;
   overflow-x: hidden;
   background-repeat: no-repeat;
